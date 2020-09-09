@@ -26,6 +26,10 @@ public class Main
                     order.printOrder();
                     break;
                 //put your case below this comment
+                case 2:
+                    order.addFries();
+                    break;
+
             }
         }
     }
